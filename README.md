@@ -29,22 +29,6 @@ Este projeto foi desenvolvido com foco no **aprendizado de React**, **hooks pers
 - **Git e GitHub para versionamento**
 
 ---
-
-## 📦 Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/cinetag.git
-
-# Acesse o diretório do projeto
-cd cinetag
-
-# Instale as dependências
-npm install
-
-# Inicie o servidor de desenvolvimento
-npm run dev
-
 ## ⚙️ Funcionalidades
 
 🔄 **Roteamento dinâmico**: com rotas aninhadas e `Outlet`  
@@ -68,3 +52,20 @@ npm run dev
 **Priscila Ramos de Amorim**  
 
 🔗 *Front-End Developer em formação | Alura | Projetos autorais*
+
+## 📦 Instalação
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/cinetag.git
+
+# Acesse o diretório do projeto
+cd cinetag
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+
+
