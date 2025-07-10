@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  padding: 4rem;
+}
+
+.imagem {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* ajuste conforme necessário */
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+}
